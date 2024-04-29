@@ -21,3 +21,6 @@ ad
 
 
 Nowe: przypomniej hasło
+
+\
+nowy wierdsz
