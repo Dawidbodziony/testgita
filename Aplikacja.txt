@@ -18,3 +18,6 @@ sda f
 ads
  f
 ad
+
+
+Nowe: przypomniej hasło
